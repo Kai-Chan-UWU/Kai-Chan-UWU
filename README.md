@@ -15,8 +15,8 @@ Beyond coding, I enjoy exploring **anime and arts**, which fuel my creativity an
 
 ### 📊 GitHub Stats  
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github-dark-blue&hide_border=true" alt="GitHub Stats" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HISOKA_69&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=HISOKA_69&show_icons=true&theme=github-dark-blue&hide_border=true" alt="GitHub Stats" height="180px"/>
 </div>
 
 ---
