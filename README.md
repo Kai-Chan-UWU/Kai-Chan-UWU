@@ -15,11 +15,11 @@ Beyond coding, I enjoy exploring **anime and arts**, which fuel my creativity an
 
 ### 📊 GitHub Stats  
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HISOKA-69&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=HISOKA-69&show_icons=true&theme=github-dark-blue&hide_border=true" alt="GitHub Stats" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kai-Chan-UWU&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kai-Chan-UWU&show_icons=true&theme=github-dark-blue&hide_border=true" alt="GitHub Stats" height="180px"/>
 </div>
 
 ---
 
 ### 🌐 Connect with Me  
-[![X (formerly Twitter)](https://img.shields.io/badge/-X-000000?style=flat&logo=x&logoColor=white)](https://x.com/HISOKA_69_)
+[![X (formerly Twitter)](https://img.shields.io/badge/-X-000000?style=flat&logo=x&logoColor=white)](https://x.com/Kai_Chan_UWU)
